@@ -1,3 +1,0 @@
-Number guessing game 
-
-# CODESOFT
