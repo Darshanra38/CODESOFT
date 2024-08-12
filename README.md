@@ -1,2 +1,0 @@
-# Codesoft
-Number guessing Game 
